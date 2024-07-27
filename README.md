@@ -1,7 +1,3 @@
-Here’s a suitable description for your BlackJack project on GitHub. It includes an overview of the project, key features, how to use it, and future improvements:
-
----
-
 # BlackJack Game in Python
 
 ## Overview
