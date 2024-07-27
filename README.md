@@ -38,20 +38,12 @@ Here’s a brief overview of how the game works:
 3. **Player Turn**: Players decide whether to "Hit" (draw another card) or "Stop" (end their turn).
 4. **Game Resolution**: The game determines which players have won and calculates payouts based on their final scores.
 
-## Future Improvements
 
-- **Graphical User Interface (GUI)**: Transition from console-based interaction to a graphical interface using libraries such as Tkinter or Pygame.
-- **Advanced Game Features**: Add more BlackJack features like splitting hands, doubling down, and more complex betting options.
-- **Code Refactoring**: Improve code organization and readability by incorporating functions and classes.
-- **Error Handling**: Enhance error handling and user input validation to ensure a smoother gameplay experience.
 
 ## Contributing
 
 Feel free to fork the repository, make improvements, and submit pull requests. Contributions and suggestions are welcome!
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
